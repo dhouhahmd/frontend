@@ -1,0 +1,12 @@
+.Backgroundclass{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.special{
+    color:rgb(241,16,91);
+    font-size:64px;
+    font-family:Georgia,'Times new Roman',Times,serif;
+    }
+    .saveable{
+    color:green
+    }
